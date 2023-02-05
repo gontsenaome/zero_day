@@ -1,1 +1,1 @@
-This is my vigrant project
+**This file is mandatory in projects**
